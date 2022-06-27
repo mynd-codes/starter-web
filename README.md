@@ -10,8 +10,8 @@ Another paragraph
 
 purpose paragraph update
 
-## Deploymnet
+## Deployment
 
-
+deployment paragraph
 
 ## How To Contribute
