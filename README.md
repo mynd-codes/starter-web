@@ -8,7 +8,7 @@ Committing Introduction
 
 ## Purpose
 
-purpose paragraph update
+Keeping local, not uploading to orgin/master
 
 ## Deployment
 
