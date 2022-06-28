@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Another paragraph
+Committing Introduction
 
 ## Purpose
 
