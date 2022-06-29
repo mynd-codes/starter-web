@@ -23,4 +23,4 @@ Please fork and issue pull request
 
 ### Copyright
 
-Git.Training
+Git.Training. Emergency Fix. All Rights Reserved
