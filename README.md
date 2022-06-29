@@ -17,6 +17,8 @@ This will be staged, locally
 ## How To Contribute
 This is changed, but not staged
 
+Please fork and issue pull request
+
 ### Copyright
 
 Git.Training
