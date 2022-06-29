@@ -2,7 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    
+    Richard  jscriptwiz@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
