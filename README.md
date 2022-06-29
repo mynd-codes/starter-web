@@ -12,6 +12,7 @@ Keeping local, not uploading to orgin/master
 
 ## Deployment
 
-deployment paragraph
+This will be staged, locally
 
 ## How To Contribute
+This is changed, but not staged
