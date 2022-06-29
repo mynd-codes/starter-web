@@ -16,3 +16,7 @@ This will be staged, locally
 
 ## How To Contribute
 This is changed, but not staged
+
+### Copyright
+
+Git.Training
