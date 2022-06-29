@@ -2,7 +2,7 @@
 
  This is a simple websidte project
 
- Adding for rebasing example
+ Adding for rebasing example, more changes from my-feature branch
 
 ## Introduction
 
